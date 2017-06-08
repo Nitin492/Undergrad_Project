@@ -1,0 +1,17 @@
+SMAP
+myprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 myprofile.jsp
+myprofile.jsp
+*L
+1,93:47
+95,17:140
+111:157
+112:158,5
+113:163,3
+114,2:166
+115:167,2
+116,24:169
+*E
